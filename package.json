@@ -1,0 +1,15 @@
+{
+  "name": "curso-nodejs-rest-api-con-express-mysql",
+  "version": "1.0.0",
+  "description": "Repositorio del curso Node.Js: Rest Api Con Express y MySQL Para Aprender A Crear Un BackEnd Con Express y Creando Una Conexión A MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
